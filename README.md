@@ -94,12 +94,16 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ## Output:
 HEAD OF THE DATA:
 ![output](ml1.png)
+
 PREDICTED VALUES:
 ![output](ml2.png)
+
 ACCURACY:
 ![output](ml3.png)
+
 CONFUSION MATRIX:
 ![output](ml4.png)
+
 CLASSIFICATION REPORT:
 ![output](ml5.png)
 
